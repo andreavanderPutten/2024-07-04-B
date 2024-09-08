@@ -60,3 +60,4 @@ class Controller:
             self._view.ddstate.options.append(ft.dropdown.Option(key=s.id, text=s.name))
         self._view.update_page()
 
+
